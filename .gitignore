@@ -1,6 +1,7 @@
 # PHP
 /vendor/
 .php_cs.cache
+composer.lock
 
 # Serverless directories
 .serverless

@@ -1,6 +1,6 @@
 {
-  "name": "araines/serverless-php",
-  "description": "Boilerplate project for Serverless Framework and PHP",
+  "name": "accesto/serverless-php",
+  "description": "Boilerplate project for Serverless Framework and PHP, using FastRoute and Pimple",
   "type": "project",
   "autoload": {
     "psr-4": {
