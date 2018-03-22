@@ -4,10 +4,10 @@
 ![license][badge-license]
 
 
-This is an example how to run PHP on AWS Lambda via Serverless Framework. Inspired by the [Andy Raines][araines-serverless-php] repository.
+This is an example how to run PHP on AWS Lambda via Serverless Framework. Inspired by the [Andy Raines](https://github.com/araines/serverless-php) repository.
 The difference between this repository and the one by Andy Raines is this one is using FastRoute and Pimple DI - a more lightweight approach.
 
-[AWS Lambda][aws-lambda-home] lets you run code without thinking about servers. Unfortunately, it does not support PHP yet.
+[AWS Lambda](https://aws.amazon.com/lambda/) lets you run code without thinking about servers. Unfortunately, it does not support PHP yet.
 
 
 ## Installation
@@ -60,6 +60,3 @@ Or just copy the exposed URL and use it.
 [badge-serverless]:   http://public.serverless.com/badges/v3.svg
 [badge-language]:     https://img.shields.io/badge/language-php-blue.svg
 [badge-license]:      https://img.shields.io/badge/license-MIT-orange.svg
-[araines-serverless-php]: 
-[aws-lambda-home]:  https://aws.amazon.com/lambda/
-[aws-lambda-langs]: http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html#lambda-app-author
